@@ -1,7 +1,7 @@
 # Phone API
 
 > **NOTE:**
-> It is necessary upload and start [phone-catalog] (https://github.com/Carmen-ramos/phone-catalog) to run this project complety. All the api information is rendered in react app.
+> It is necessary dowmload and start [phone-catalog] (https://github.com/Carmen-ramos/phone-catalog) to run this project complety. All the api information is rendered in react app.
 > This is a API REST created with Node js, Express and MYSQL.
 
 ### Steps to follow:
