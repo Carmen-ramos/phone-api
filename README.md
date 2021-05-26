@@ -25,4 +25,4 @@ Folder structure:
 
 Functionalities you can check in the aplication:
 
-You can acces to the API information in http://localhost:9000/Phone
+You can acces to the API information in http://localhost:9000/phones
